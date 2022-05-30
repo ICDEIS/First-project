@@ -5,3 +5,6 @@ let number = 23;
 const f1 = (user) => {
   console.log(user.name) 
 }
+const f2 = (user) => {
+  console.log(user.religion) 
+}
